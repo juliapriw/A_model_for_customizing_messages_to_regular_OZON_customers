@@ -1,1 +1,1 @@
-# A_model_for_customizing_messages_to_regular_OZON_customers
+Модель для кастомизации сообщений постоянным клиентам «OZON»
